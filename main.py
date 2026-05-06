@@ -10229,16 +10229,16 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
 
                             rules_messages = [
                                 f"[B][C][00FF00]আসসালামুয়ালাইকুম {N} ❤️",
-                                f"[B][C][FFFF00]{N} আপনাকে আমাদের Prime City Guild এ স্বাগতম",
+                                f"[B][C][FFFF00]{N} আপনাকে আমাদের EVIL City Guild এ স্বাগতম",
                                 f"[B][C][00BFFF]{N} আপনি হয়তো আমাদের GUILD এ নতুন সদস্য তাই আমাদের Guild rules সম্পর্কে কিছু জানতে হবে",
                                 f"[B][C][FF4444]{N} Mr/Ms আমাদের Guild এ join হওয়ার 24 ঘন্টার মধ্যে মিনিমাম 1 হাজার+ গ্লোরি করতে হবেই",
-                                f"[B][C][FF8C00]{N} আর প্রতি সপ্তাহে minimum 5+ হাজার Glory করতে হবে!",
+                                f"[B][C][FF8C00]{N} আর প্রতি সপ্তাহে minimum 1.5+ হাজার Glory করতে হবে!",
                                 f"[B][C][FFD700]সপ্তাহে তিন দিন Guild war থাকবে বুঝেছেন {N} !!",
                                 f"[B][C][00FF7F]আর একটা কথা {N} মনে রাখবেন 3 দিন — বুধবার, শুক্রবার এবং শনিবার সন্ধ্যা 7টা থেকে রাত 11টা পর্যন্ত চলবে",
                                 f"[B][C][00FFFF]{N} আর আপনি হয়তো আমাদের Whatsapp Group এ Join নাই — আমাদের Guild এ থাকতে চাইলে অবশ্যই Whatsapp group join করতে হবে",
                                 f"[B][C][FF69B4]আর একটা কথা আমাদের Admin এর নাম Shareya ভাই বলে ডাকতে পারেন বুঝেছেন {N} Humm",
                                 f"[B][C][FFFFFF]Mr/Ms {N} আমাদের Whatsapp নম্বর হলো [FFD700]+8801307874600[FFFFFF] — এটা Admin এর নম্বর। Whatsapp group join করতে আপনার ID screenshot পাঠান",
-                                f"[B][C][00FF00]আর আপনার নামে —͞ᎮƇ {N}   এরকম হতে হবে।",
+                                f"[B][C][00FF00]আর আপনার নামে ev {N}   এরকম হতে হবে।",
                                 f"[B][C][FF8C00]{N} আর অবশ্যই নাম Admin বা Acting Leaders এর কাছ থেকে নিতে হবে।",
                                 f"[B][C][00BFFF]{N} Guild এর সকল player দের সাথে ভালো ব্যবহার এবং ভালো সম্পর্ক রাখতে হবে।",
                                 f"[B][C][FF4444]{N} Whatsapp group join হওয়ার আগে একটা কথা মনে রাখবেন —",
@@ -10280,7 +10280,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             # WELCOME HEADER
                             # ════════════════════════════════
                             header = f"""[B][C][FF00FF]╔══━━✦❘༻༺❘✦━━═══╗
-[FFFF00]  ⚡ PRIME CITY GUILD BOT ⚡
+[FFFF00]  ⚡ PRIME  GUILD BOT ⚡
 [00FFFF]  🤖 Version : V6 OB53 PRIME 
 [FF00FF]◈━━━━━━━━━━━━━━◈
 [FFFFFF]  👋 Welcome, [00FF00]{player_name}[FFFFFF]!
@@ -10401,10 +10401,10 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             footer = """[B][C][FF00FF][B][C][FF00FF]╔══━━✦❘༻༺❘✦━━═══╗
 [B][C][FFFF00]     PRIME CITY GUILD BOT 
 [B][C][FF00FF]✦══━━━✦❘༻༺❘✦━━━══✦
-[FFFFFF]👤 Dev     [FF1493]» Shareya Islam
-[FFFFFF]💬 WA      [00FF00]» +8801307874600
-[FFFFFF]📱 TG      [00CCFF]» @Shareyabhai
-[FFFFFF]🌟 Guild   [FFFF00]» PRIME CITY GUILD
+[FFFFFF]👤 Dev     [FF1493]» SALIM FF 
+[FFFFFF]💬 WA      [00FF00]» +8801987408980
+[FFFFFF]📱 TG      [00CCFF]» SALIM FF 
+[FFFFFF]🌟 Guild   [FFFF00]» PRIME SALIM GUILD
 [FFFFFF]⚡ Version [00FFFF]» OB53 V6 PREMIUM
 [B][C][FF00FF]╔══━━✦❘༻༺❘✦━━═══╗
 [B][C][00FF00] 🟢 BOT STATUS : ONLINE ✓
@@ -10501,7 +10501,7 @@ async def MaiiiinE():
     # Clear screen and show status
     os.system('clear')
     print("=" * 50)
-    print("🤖 HEXOZENTA BOT - INITIALIZING")
+    print("🤖 SALIM FF BOT - INITIALIZING")
     print("=" * 50)
     print("🔄 Starting TCP Connections...")
     print("📡 Connecting to Free Fire servers...")
@@ -10557,7 +10557,7 @@ async def MaiiiinE():
     
     # Show loading animation
     os.system('clear')
-    print("🤖 HEXOZENTA BOT - STARTING")
+    print("🤖 SALIM FF BOT - STARTING")
     print("=" * 50)
     
     for i in range(1, 4):
@@ -10566,7 +10566,7 @@ async def MaiiiinE():
         time.sleep(0.3)
     
     os.system('clear')
-    print("🤖 HEXOZENTA BOT - CONNECTING")
+    print("🤖 SALIM FF BOT - CONNECTING")
     print("=" * 50)
     print("┌────────────────────────────────────┐")
     print("│ ██████████████████████████████████ │")
@@ -10583,7 +10583,7 @@ async def MaiiiinE():
     # Final status display
     os.system('clear')
     print("=" * 50)
-    print("🤖 HEXOZENTA BOT - ONLINE")
+    print("🤖 SALIM FF BOT - ONLINE")
     print("=" * 50)
     print(f"🔹 UID: {TarGeT}")
     print(f"🔹 Name: {acc_name}")
