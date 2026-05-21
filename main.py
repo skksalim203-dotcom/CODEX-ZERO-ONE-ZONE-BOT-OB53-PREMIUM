@@ -10281,7 +10281,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             # ════════════════════════════════
                             header = f"""[B][C][FF00FF]╔══━━✦❘༻༺❘✦━━═══╗
 [FFFF00]  ⚡ PRIME  GUILD BOT ⚡
-[00FFFF]  🤖 Version : V6 OB53 PRIME 
+[00FFFF]  🤖 Version : SALIM OB53 PRIME 
 [FF00FF]◈━━━━━━━━━━━━━━◈
 [FFFFFF]  👋 Welcome, [00FF00]{player_name}[FFFFFF]!
 [FF00FF]╚══━━✦❘༻༺❘✦━━═══╝"""
